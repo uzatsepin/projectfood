@@ -1,5 +1,1 @@
-function calcOrDouble(number, basis = 2){
-    console.log(number * basis);
-}
-
-calcOrDouble(3);
+const clone = JSON.parse(JSON.stringify(object));
