@@ -1,0 +1,19 @@
+{
+  "name": "projectfood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzatsepin/projectfood.git"
+  },
+  "author": "Andrii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uzatsepin/projectfood/issues"
+  },
+  "homepage": "https://github.com/uzatsepin/projectfood#readme"
+}
